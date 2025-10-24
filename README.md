@@ -15,7 +15,7 @@ Voice Integration: Optional integration with Vapi/AI Sensy for voice call automa
 
 Real-Time Dashboard: Monitor leads, track interactions, and visualize customer journey
 
-## 🎥 Project Demo Video
+## Project Demo Video
 
 **[📥 Download Demo Video (25MB)](./static/Privacy-First%20Agentic%20AI%20CRM.mp4)**
 
