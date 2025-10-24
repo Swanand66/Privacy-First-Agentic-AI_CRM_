@@ -17,10 +17,9 @@ Real-Time Dashboard: Monitor leads, track interactions, and visualize customer j
 
 ## 🎥 Project Demo Video
 
-<video width="100%" controls>
-  <source src="/static/Privacy-First Agentic AI CRM.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+**[📥 Download Demo Video (25MB)](./static/Privacy-First%20Agentic%20AI%20CRM.mp4)**
+
+*Full walkthrough of the CRM system, AI agents, dashboard, and privacy features*
 
 Tech Stack:
 Backend: Python, Flask, LangGraph (multi-agent orchestration)
